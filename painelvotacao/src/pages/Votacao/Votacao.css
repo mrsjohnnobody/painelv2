@@ -1,0 +1,39 @@
+.requerimento {
+  background-color: #332d2d;
+  padding-top: 10px;
+  padding-left: 10px;
+  width: 100%;
+  height: 200px;
+  color: rgb(255, 255, 255);
+}
+
+.info-class {
+  max-width: 70%;
+}
+
+.input-div-1 {
+  background-color: #14a44d;
+  height: 180px;
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.input-div-2 {
+  background-color: #54b4d3;
+  height: 180px;
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.input-div-3 {
+  background-color: #dc4c64;
+  height: 180px;
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+  font-size: 100px;
+}

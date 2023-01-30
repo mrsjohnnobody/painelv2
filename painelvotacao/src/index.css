@@ -1,0 +1,24 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+
+  background-color: #a59efc;
+  color: #0a0a0a;
+}
+
+#home,
+#ordens,
+#editordem,
+#votacao,
+#call,
+#config,
+#help,
+#logs,
+#painel,
+#user,
+#leitura,
+#quorum,
+#relatorio {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 2em;
+}
